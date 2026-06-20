@@ -30,8 +30,10 @@
 <body>
     <div class="login-container">
         <div class="card card-primary card-outline mb-4">
+            
             <div class="card-header text-center">
-                <h3 class="card-title float-none">Inventory System</h3>
+            <img src="assets/img/gambar 1.jpeg" width="120" height="120" alt="icon">    
+            <h3 class="card-title float-none">PT SEGARIKA</h3>
             </div>
             <form action="login.php" method="post">
                 <div class="card-body">

@@ -9,17 +9,23 @@ PT Segarika Nusantara Indonesia merupakan perusahaan yang bergerak di bidang pro
 Perusahaan ini hadir untuk memenuhi kebutuhan masyarakat akan minuman yang tidak hanya menyegarkan, tetapi juga menyehatkan. Dengan slogan “Minuman Segar, Hidup Lebih Segar” , Segarika berkomitmen menghadirkan produk berkualitas, higienis, dan ramah lingkungan. Selain berorientasi pada keuntungan, perusahaan juga berupaya meningkatkan kesadaran masyarakat akan pentingnya pola hidup sehat melalui konsumsi minuman alami dan bergizi.
 
 Visi
+
 Menjadi perusahaan minuman sehat dan segar terkemuka di Indonesia yang menghadirkan produk berkualitas, inovatif, dan memberikan manfaat bagi kesehatan masyarakat.
 
-Misi 
-1 Menghasilkan produk minuman segar dan sehat dengan menggunakan       bahan-bahan alami, berkualitas, serta diproses secara higienis dan aman untuk dikonsumsi.
-2.Menciptakan inovasi produk secara berkelanjutan melalui pengembangan varian minuman yang sesuai dengan kebutuhan dan gaya hidup sehat masyarakat modern.
-3.Memberikan yang terbaik dan berkontribusi bagi lingkungan serta     masyarakat , dengan menerapkan prinsip bisnis yang bertanggung jawab, ramah lingkungan, dan mampu membuka peluang kerja pelayanan bagi masyarakat sekitar.
+Misi
+
+1. Menghasilkan produk minuman segar dan sehat dengan menggunakan       bahan-bahan alami, berkualitas, serta diproses secara higienis dan aman untuk dikonsumsi.
+2. Menciptakan inovasi produk secara berkelanjutan melalui pengembangan varian minuman yang sesuai dengan kebutuhan dan gaya hidup sehat masyarakat modern.
+3. Memberikan yang terbaik dan berkontribusi bagi lingkungan serta     masyarakat , dengan menerapkan prinsip bisnis yang bertanggung jawab, ramah lingkungan, dan mampu membuka peluang kerja pelayanan bagi masyarakat sekitar.
 
 
-Login
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/a7672b2e-40f5-4509-91e6-9ce437266a80" />
-Admin
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/de6ebc66-69ed-448d-b0db-d4de1043828c" />
-User
-<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/4050a4da-71f9-4a8f-83f1-01f17bbb1b80" />
+Tampilan Halaman Login
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/e36fcaaa-07d5-44e9-bbba-f38dd4b0751f" />
+
+Tampilan Halaman Admin
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c18cc7f9-94d4-4ed2-a634-6e691dfb549f" />
+Tampilan Halaman User
+
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/c9bdcfe0-c5ee-47bb-84f7-590d808efe05" />

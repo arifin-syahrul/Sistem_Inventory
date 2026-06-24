@@ -27,7 +27,7 @@ Misi
 
 Tampilan Halaman Login
 
-<img width="648" height="312" alt="Image" src="https://github.com/user-attachments/assets/74ca7b78-67b5-40f5-bb23-51514437bbf7" />
+<img width="1366" height="768" alt="Image" src="https://github.com/user-attachments/assets/7d0be4d6-449a-4109-aa5c-07b0aa09b3e1" />
 
 Tampilan Halaman Admin
 
